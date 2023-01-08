@@ -4,7 +4,7 @@
     <p>Bitte f&uuml;llen Sie dieses Formular aus, um ein Konto zu erstellen.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Namen eingeben</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
