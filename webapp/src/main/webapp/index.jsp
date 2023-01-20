@@ -31,7 +31,7 @@
     <p>Hast Du schon einen Account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Happy Learning Du hast es geschafft! Mueger hat einen enorm kleinen zeigefinger </h1>
+   <h1> Happy Learning Du hast es geschafft! Mueger hat einen enorm kleinen Penis </h1>
 
   
 </form>
